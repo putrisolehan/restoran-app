@@ -9,8 +9,7 @@
         <a href="https://facebook.com/<?= $facebook ?>" class="facebook" target="_blank"><i class="bx bxl-facebook"></i></a>
       </div>
       <div class="copyright">
-        &copy; Copyright <strong><span>Bjn Squad</span></strong>. All Rights Reserved | Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a>
-				
+        &copy; 2026 Developed as a Group Project
       </div>
     </div>
   </footer><!-- End Footer -->
